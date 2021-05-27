@@ -1,6 +1,9 @@
 # mybot-aq
 Bot Whatsapp with FREE APIKEY
 
+# Ini script NURUTOMO yg saya recode🗿
+
+
 # Installation (Termux)
 ```bash
 > pkg install git -y
