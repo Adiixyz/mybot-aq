@@ -2,9 +2,17 @@
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Adiixyz" 
+<a href="#"><img title="mybot-aq" 
 src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
+<p align="center">
+<a href="https://github.com/TobyG74"><img 
+title="Author" src="https://img.shields.io/badge/Author-Adiixyz-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Adiixyz/followers"><img 
+title="Followers" src="https://img.shields.io/github/followers/Adiixyz?color=blue&style=flat-square"></a>
+<a 
 
 # Installation (Termux)
 ```bash
@@ -20,7 +28,6 @@ src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e4
 > node index.js
 (scan qr)
 ```
-
 # Installation (Windows)
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
@@ -34,6 +41,15 @@ src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e4
 > npm install
 > node index.js
 (scan qr)
+```
+[My Bot](wa.me/60199782326)
+
+## Setting Apikey
+- *XTEAM* : You can get at [XTEAM Api](api.xteam.xyz)
+
+## stop the bot
+```
+> ctrl + c
 ```
 
 ## Arguments `node . [--options] [<session name>]`
