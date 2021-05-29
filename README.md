@@ -1,8 +1,10 @@
-# mybot-aq
-Bot Whatsapp with FREE APIKEY
-
-# Ini script NURUTOMO yg saya recode🗿
-
+<p align="center">
+<img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
+</p>
+<p align="center">
+<a href="#"><img title="Adiixyz" 
+src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 
 # Installation (Termux)
 ```bash
